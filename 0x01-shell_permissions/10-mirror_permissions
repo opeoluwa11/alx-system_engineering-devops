@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 664 [h,o]*
+chmod 075 [h,o]*
